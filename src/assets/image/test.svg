@@ -1,0 +1,52 @@
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="138"
+        height="80"
+        viewBox="0 0 138 80"
+        fill="none"
+        opacity=".15">
+    <path stroke="#e8e5da" stroke-width="3" fill="none" d="
+	  M 0,0
+		h 46
+		L 69,40
+		h -46
+		Z"/>
+    <path stroke="#e8e5da" stroke-width="3" fill="none" d="
+	  M 138,0
+		h -46
+		L 69,40
+		h 46
+		Z"/>
+    <path stroke="#e8e5da" stroke-width="3" fill="none" d="
+	  M 0,80
+		h 46
+		L 69,40
+		h -46
+		Z"/>
+    <path stroke="#e8e5da" stroke-width="3" fill="none" d="
+	  M 138,80
+		h -46
+		L 69,40
+		h 46
+		Z"/>
+<!--    <path stroke="#e8e5da" stroke-width="3" fill="none" d="-->
+<!--	  M 0,0-->
+<!--		L 138,80-->
+<!--		"/>-->
+<!--    <path stroke="#e8e5da" stroke-width="3" fill="none" d="-->
+<!--	  M 138,0-->
+<!--		L 0,80-->
+<!--		"/>-->
+<!--    <path stroke="#e8e5da" stroke-width="3" fill="none" d="-->
+<!--	  M 0,0-->
+<!--		L 0,80-->
+<!--		"/>-->
+<!--    <path stroke="#e8e5da" stroke-width="3" fill="none" d="-->
+<!--	  M 69,0-->
+<!--		L 69,80-->
+<!--		"/>-->
+<!--    <path stroke="#e8e5da" stroke-width="3" fill="none" d="-->
+<!--	  M 138,0-->
+<!--		L 138,80-->
+<!--		"/>-->
+</svg>

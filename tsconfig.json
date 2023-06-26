@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "useDefineForClassFields": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "jsx": "preserve",
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "lib": ["esnext", "dom"],
+    "skipLibCheck": true,
+    "types": ["vite/client"],
+    "allowJs": true,
+    "checkJs": true,
+    "strictPropertyInitialization": true,
+    // 强制初始化类属性检查
+    // 解决 @ alias 的问题
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "include": ["src/**/*.ts", "src/**/*.vue"],
+  "exclude": ["node_modules", "**/*.spec.ts", "**/.*/"],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}

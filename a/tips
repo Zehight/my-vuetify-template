@@ -1,0 +1,1 @@
+ const a = import.meta.env.VITE_APP_BASEURL
